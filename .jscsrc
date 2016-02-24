@@ -20,6 +20,8 @@
       }
     },
     "checkTypes": "strictNativeCase",
-    "enforceExistence": "exceptExports"
+    "enforceExistence": {
+      "allExcept": ["paramless-procedures"]
+    }
   }
 }
