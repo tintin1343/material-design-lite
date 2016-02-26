@@ -16,7 +16,8 @@
       "preset": "closurecompiler",
       "extra": {
         "type": true,
-        "suppress": true
+        "suppress": true,
+        "nocollapse": true
       }
     },
     "checkTypes": "strictNativeCase",
